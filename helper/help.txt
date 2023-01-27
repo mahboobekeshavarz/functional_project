@@ -1,0 +1,13 @@
+enter "Help" to to see help.
+enter "Quit" to exit the app and see your list.
+enter "Show" to see all items that you choose them.
+enter "Remove" if you want to delete your item from shopping list.
+enter "Search" if you want to search for items.
+enter "Edit" if you want to edit some items.
+enter "Final" if you want to see the final list.
+enter "Category" if you want to see all categories and goods.
+enter "Price" if you want to see price of goods.
+enter "Stock" if you want to see stock.
+enter "Payment" if you want to see your total payment.
+enter "Change_number" if you want to chang numbers of goods.
+enter "Sort" if you want to sort item base on purchase amount.

@@ -1,0 +1,3 @@
+apple -> 25,   cherry -> 50,     orange -> 30
+beef -> 200,   chicken -> 100,   lamb -> 300
+milk -> 15,    pasta -> 20,      rice -> 120

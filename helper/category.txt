@@ -1,0 +1,5 @@
+--------------------------------------------------
+There are 3 types of fruits: apple - cherry - orange
+There are 3 types of meet: beef - chicken - lamb
+There are 3 items in supermarket: milk - pasta - rice 
+--------------------------------------------------
