@@ -12,7 +12,7 @@ from enum import IntEnum
 
 
 # exit command
-EXIT_COMMAND: List[str] = ['Quit', 'Q', 'Ex', 'Exit']
+EXIT_COMMAND: List[str] = ['Quit', 'Q', 'Ex', 'Exit0']
 
 # all goods
 GOODS: List[str] = ['Apple', 'Cherry', 'Orange', 'Beef', 'Chicken', 'Lamb', 'Milk', 'Pasta', 'Rice']                                                # noqaE E501
